@@ -54,7 +54,7 @@ Các thông tin về giá từng loại coin bao gồm tập dữ liệu chứa 
 - Kết quả: Nhóm hoàn thành phần lớn các yêu cầu của đồ án đề ra.
 - Thiếu sót: một số câu hỏi chưa được nhóm trả lời một cách rõ ràng, tường minh (ví dụ: xu hướng theo mùa trong biến động giá như thế nào?, ...).
 - Cần làm gì để phát triển thêm:
-    - Các dữ liệu có thể cho ra được nhiều thông tin hơn nữa nếu được khai thác hợp lý $\Rightarrow$ Thực hiện khai phá dữ liệu chi tiết hơn.
+    - Các dữ liệu có thể cho ra được nhiều thông tin hơn nữa nếu được khai thác hợp lý. Do đó nên thực hiện khai phá dữ liệu chi tiết hơn.
     - Mặc dù khó có thể dự đoán chính xác sự thay đổi giá, nhóm cho rằng vẫn có thể cải thiện mô hình tốt hơn (với tham số khác, với đặc trưng, mô hình khác, ...)
 
 ## 7. Phân công công việc.
@@ -63,5 +63,5 @@ Các thông tin về giá từng loại coin bao gồm tập dữ liệu chứa 
 
 ## 8. Hướng dẫn chạy các file notebook (tất cả các quy trình, cả code thu nhập dữ liệu)
 - OS: Ubuntu 20.04
-- Chạy file **** để tiến hành crawl dữ liệu
+- Chạy file **Data_Crawling.ipynb** để tiến hành crawl dữ liệu
 - Chạy file **Cryptocurrency_Market_Analysis.ipynb** để tiến hành các bước EDA, áp dụng mô hình học máy
